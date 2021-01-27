@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model Summoner
+
+
+@using (Html.BeginForm("Search", "Home", "Get"))
+{
+    <label asp-for="SummonerName" class="control-label" style="color:white"><img src="https://lolstatic-a.akamaihd.net/frontpage/apps/prod/signup/en_US/c90bd494d0d5a9eecb710c7895776bb332a0e51a/assets/en_US/assets/lol-logo.png" alt="LOL"></label>
+    <input type="text" name="SummonerName" placeholder="Search for Summoner Name..." class="form-control" value="" />
+    <input type="submit" value="Search" class="btn btn-primary" />
+    <link rel="stylesheet" href="~/css/Searchbar.css">
+    
+
+}
+

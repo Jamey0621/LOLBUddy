@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+bClZNqsIkOLP6FZWbaEgPwQzdEQgjKRllB7wI9pGwPrW1jhFMtbZ7uSSEAB4P03chK059gWsHh4tzP4wPlOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jamey\\Projects\\LOLBuddy\\LOLBuddy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamey\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Jamey\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
